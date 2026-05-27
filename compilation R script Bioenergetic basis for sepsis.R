@@ -576,7 +576,7 @@ setwd("D:/.shortcut-targets-by-id/10J9GdrycmUMcd6u97iLZyH8Psxxr964x/Lipidomics M
 write.csv(pvalues[,c("lipid_class", "p_value", "cor")], "data_fig1G_corr.csv", row.names = F)
 
 
-########## data_fig1F ##########
+########## Data for Figure 1F , Venn Euler ##########
 
 forvenn2 <- data.frame( MOUSE = results_df2_conc$sig3, 
                         HUMAN = results_df2_conc$sig3h )
