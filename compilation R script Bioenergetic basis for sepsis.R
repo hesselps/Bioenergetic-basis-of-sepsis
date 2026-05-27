@@ -1,6 +1,6 @@
 # Paper "Bioenergetic basis for sepsis""
 # April 30, 2026
-# By Hessel Peters-Sengers, Joe Butler, and Elisa Jentho
+# By Hessel Peters-Sengers, Joe Butler, Elisa Jentho, and Miguel Soares
 
 
 # to do:
