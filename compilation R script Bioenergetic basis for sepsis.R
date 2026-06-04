@@ -1,11 +1,13 @@
 # Paper "Bioenergetic basis for sepsis""
-# April 30, 2026
+# June 4, 2026
 # By Hessel Peters-Sengers, Joe Butler, Elisa Jentho, and Miguel Soares
 
 
 # to do:
 # 1. not in order of manuscript
 # 2. data should be loaded on top, now its at the bottom, with different variable names
+
+# data_exdat3f (previously 7B) lipid names check (june 4) in sofas script, mouse atgl
 
 
 ########## data_extended_fig5A ##########
