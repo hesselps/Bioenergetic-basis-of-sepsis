@@ -7,7 +7,7 @@
 # 1. not in order of manuscript
 # 2. data should be loaded on top, now its at the bottom, with different variable names
 
-# suppinfo3a&b, 
+# Need doing: suppinfo3a&b, suppinfo6
 
 
 ########## data_extended_fig5A ##########
