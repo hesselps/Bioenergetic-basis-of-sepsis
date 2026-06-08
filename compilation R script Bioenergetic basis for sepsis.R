@@ -7,7 +7,7 @@
 # 1. not in order of manuscript
 # 2. data should be loaded on top, now its at the bottom, with different variable names
 
-# data_exdat3f (previously 7B) lipid names check (june 4) in sofas script, mouse atgl
+# suppinfo3a&b, 
 
 
 ########## data_extended_fig5A ##########
