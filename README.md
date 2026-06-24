@@ -12,4 +12,4 @@ By Hessel Peters-Sengers, Joe Butler, Elisa Jentho, and Miguel Soares
 to do:
 1. not in order of manuscript
 2. data should be loaded on top, now its at the bottom, with different variable names
-3. Need doing: suppinfo3a&b, suppinfo6
+3. Need doing: suppinfo6
